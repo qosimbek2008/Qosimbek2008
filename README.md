@@ -23,5 +23,3 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 </p>
-
-<img src="https://media2.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif?cid=ecf05e47gapn0a5cr5zxj2fwxsneuiqrfc51tktxndi38mx8&rid=giphy.gif&ct=s">
